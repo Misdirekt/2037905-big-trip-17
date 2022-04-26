@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Никита Акимов](https://up.htmlacademy.ru/ecmascript/17/user/2037905).
-* Наставник: `Неизвестно`.
+* Наставник: [Магомед Кандаев](https://htmlacademy.ru/profile/magomedkandaev).
 
 ---
 
